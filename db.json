@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Uthappizza",
-      "image": "images/uthappizza.png",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/9/4000009/a3f876979c7b1a123ff8d0548d774cb1.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
@@ -12,33 +12,33 @@
     },
     {
       "id": 1,
-      "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.png",
+      "name": "Paneer Tikka",
+      "image": "https://i2.wp.com/www.bharatzkitchen.com/wp-content/uploads/2020/12/Paneer-Tikka.jpg?fit=480%2C268&ssl=1",
       "category": "appetizer",
       "label": "",
       "price": "1.99",
       "featured": false,
-      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce"
+      "description": "Paneer tikka is an Indian dish made from chunks of paneer marinated in spices and grilled in a tandoor. It is a vegetarian alternative to chicken tikka and other meat dishes. "
     },
     {
       "id": 2,
-      "name": "Vadonut",
-      "image": "images/vadonut.png",
+      "name": "Masala Dosa",
+      "image": "https://kitchenspire.com/wp-content/uploads/2021/03/dosa.png",
       "category": "appetizer",
       "label": "New",
       "price": "1.99",
       "featured": false,
-      "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      "description": "Masala dosa is a variation of the popular South Indian dosa, which has its origins in Tuluva Mangalorean cuisine of Karnataka. It is made from rice, lentils, potato, fenugreek, ghee and curry leaves, and served with chutneys and sambar. "
     },
     {
       "id": 3,
-      "name": "ElaiCheese Cake",
-      "image": "images/elaicheesecake.png",
-      "category": "dessert",
+      "name": "Veg Biryani",
+      "image": "https://artofpalate.com/wp-content/uploads/2016/11/vegetable-biryani-recipe-500x375.jpg",
+      "category": "appetizer",
       "label": "",
       "price": "2.99",
       "featured": false,
-      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
+      "description": "Vegetable biryani is an aromatic rice dish made with basmati rice, mix veggies, herbs & biryani spices. ... A traditional biryani has layers of marinated meat and fragrant rice, dum cooked with caramelized onions, spices, herbs and saffron-infused milk."
     }
   ],
   "comments": [
@@ -215,7 +215,7 @@
     {
       "id": 0,
       "name": "Weekend Grand Buffet",
-      "image": "images/buffet.png",
+      "image": "https://www.genome.gov/sites/default/files/media/images/6.1.4.142_food_choices_virtual_reality_buffet.jpg",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -226,7 +226,7 @@
     {
       "id": 0,
       "name": "Peter Pan",
-      "image": "images/alberto.png",
+      "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "featured": false,
@@ -235,7 +235,7 @@
     {
       "id": 1,
       "name": "Dhanasekaran Witherspoon",
-      "image": "images/alberto.png",
+      "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
       "designation": "Chief Food Officer",
       "abbr": "CFO",
       "featured": false,
@@ -244,7 +244,7 @@
     {
       "id": 2,
       "name": "Agumbe Tang",
-      "image": "images/alberto.png",
+      "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
       "designation": "Chief Taste Officer",
       "abbr": "CTO",
       "featured": false,
@@ -253,7 +253,7 @@
     {
       "id": 3,
       "name": "Alberto Somayya",
-      "image": "images/alberto.png",
+      "image": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
